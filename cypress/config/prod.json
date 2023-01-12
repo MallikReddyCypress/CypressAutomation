@@ -1,0 +1,6 @@
+{
+    "baseUrl": "https://hotmail.com",
+    "env": {
+      "something": "qa"
+    }
+  }
